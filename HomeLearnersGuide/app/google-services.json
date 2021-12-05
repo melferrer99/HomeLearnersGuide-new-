@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "126055796910",
+    "firebase_url": "https://cite-home-learner-s-guide.firebaseio.com",
+    "project_id": "cite-home-learner-s-guide",
+    "storage_bucket": "cite-home-learner-s-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126055796910:android:7fe3a89904c5daac98dd3f",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126055796910-viduj08c955udj7iis4jjieqvsptrokl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqluRiFfAINZ4mw0RIHECcs03T7KhThn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126055796910-viduj08c955udj7iis4jjieqvsptrokl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126055796910:android:92b659c7456af62998dd3f",
+        "android_client_info": {
+          "package_name": "com.example.homelearnersguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126055796910-viduj08c955udj7iis4jjieqvsptrokl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqluRiFfAINZ4mw0RIHECcs03T7KhThn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126055796910-viduj08c955udj7iis4jjieqvsptrokl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
